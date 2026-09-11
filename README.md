@@ -17,6 +17,7 @@ fastapi-openai-agent/
 
 
 
+
  Client Request          +-------------------+          Tool Loop
   (User Message) -------> |   FastAPI App     |              |
                           +---------+---------+              |
